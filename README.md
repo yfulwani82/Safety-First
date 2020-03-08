@@ -70,7 +70,7 @@ Where 𝜑 is latitude, 𝜆 is longitude, 𝑅 is earth&#39;s radius (mean radi
 
 note that angles need to be in radians to pass to trig functions.
 
-**Project flow chart:** The complete design flow of the project can be depicted here: ![](https://drive.google.com/open?id=1qi6aLeXPjQ3f3zd178jxL3lhIMJ1xx__)
+**Project flow chart:** The complete design flow of the project can be depicted here: ![](Safety-First/imgs/flow_chart)
 
 **Configuration of Database:**
 
